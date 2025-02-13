@@ -4,12 +4,12 @@
 The transition to electric vehicles (EVs) is crucial for a sustainable future. This project focuses on analyzing EV population data to provide actionable insights for policymakers, businesses, and consumers. By leveraging data-driven techniques, we aim to improve charging infrastructure, forecast EV adoption trends, and enhance overall accessibility.
 
 ## Objectives
-- **EV Adoption Trends Across Locations:** Identify cities and regions with high or low EV adoption to help policymakers and automakers strategize incentives and marketing efforts.
-- **Forecast Future EV Growth:** Predict EV registration growth to assist in planning infrastructure and supply chain requirements.
-- **Optimal Charging Station Placement:** Locate areas needing new charging stations to minimize range anxiety and improve accessibility.
-- **EV Price Trend Analysis:** Study MSRP trends over different years and brands to inform consumers and manufacturers.
-- **Performance & Range Analysis:** Evaluate which EV models provide the best range and efficiency to guide consumers.
-- **Environmental Impact Estimation:** Assess CO2 emissions reductions due to increased EV adoption.
+- **GOAL-1 > EV Adoption Trends Across Locations:** Identify cities and regions with high or low EV adoption to help policymakers and automakers strategize incentives and marketing efforts.
+- **GOAL-2 >Forecast Future EV Growth:** Predict EV registration growth to assist in planning infrastructure and supply chain requirements.
+- **GOAL-3 >Optimal Charging Station Placement:** Locate areas needing new charging stations to minimize range anxiety and improve accessibility.
+- **GOAL-4 >EV Price Trend Analysis:** Study MSRP trends over different years and brands to inform consumers and manufacturers.
+- **GOAL-5 >Performance & Range Analysis:** Evaluate which EV models provide the best range and efficiency to guide consumers.
+- **GOAL-6 >Environmental Impact Estimation:** Assess CO2 emissions reductions due to increased EV adoption.
 
 ## Challenges
 1. **Fragmented Data Sources:** EV adoption trends vary across different locations, requiring consolidation of multiple datasets.
